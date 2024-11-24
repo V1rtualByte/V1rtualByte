@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a student developer from Korea (2011)
 
-![readme-widgets](https://readme-widgets.deno.dev/repository?owner=judongdev&repo=riot-auth&name=Riot%20QR%20Auth)
+![readme-widgets](https://readme-widgets.deno.dev/repository?owner=judongdev&repo=riot-qr-auth&name=Riot%20QR%20Auth)
 
 ## I use.. 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
